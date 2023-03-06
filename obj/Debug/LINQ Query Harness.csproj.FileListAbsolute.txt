@@ -1,0 +1,19 @@
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.csprojResolveAssemblyReference.cache
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\obj\Debug\LINQ_Query_Harness.Properties.Resources.resources
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.csproj.GenerateResource.Cache
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\bin\Debug\Data\NORTHWND.MDF
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\bin\Debug\LINQ Query Harness.exe
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\bin\Debug\LINQ Query Harness.pdb
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.exe
+C:\Users\Troy\Downloads\sandbox.LINQ-Query-Harness-master\sandbox.LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.pdb
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\bin\Debug\Data\NORTHWND.MDF
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\bin\Debug\LINQ Query Harness.exe
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\bin\Debug\LINQ Query Harness.pdb
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.csproj.AssemblyReference.cache
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\obj\Debug\LINQ_Query_Harness.Properties.Resources.resources
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.csproj.GenerateResource.cache
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.csproj.CoreCompileInputs.cache
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.exe
+C:\Users\troyt\Downloads\LINQ-Query-Harness-master\obj\Debug\LINQ Query Harness.pdb
